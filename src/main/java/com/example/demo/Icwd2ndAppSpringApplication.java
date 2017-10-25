@@ -9,6 +9,10 @@ public class Icwd2ndAppSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Icwd2ndAppSpringApplication.class, args);
 	System.out.println("master");
+
 	System.out.println("master3");
+
+		System.out.println("master2")
+>>>>>>> refs/remotes/origin/master
 	}
 }
